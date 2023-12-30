@@ -1,0 +1,2 @@
+This is a palindrome checker project.
+in this project i will build a palindrome checker which function is to check if a letter is spelt the same way if spelt in both direction
