@@ -37,6 +37,12 @@ body{
     background-color: rgb(15, 15, 65);
     color: white;
 }
+#output{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-style: italic;
+}
 .box{
     width: 100%;
     background-color: rgb(247, 87, 87);
