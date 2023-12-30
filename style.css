@@ -21,11 +21,11 @@ body{
     min-height: 250px;
 }
 .input-container > input{
-    margin: 10% 0 0 30%;
+    margin: 10% 0 0 20%;
     padding: 8px;
     border: none;
     border-bottom: 2px solid grey;
-    width: 200px;
+    width: 300px;
     border-radius: 10px;
     background-color: rgb(243, 239, 239, 0.4);
 }
@@ -36,4 +36,12 @@ body{
     border-radius: 20px;
     background-color: rgb(15, 15, 65);
     color: white;
+}
+.box{
+    width: 100%;
+    background-color: rgb(247, 87, 87);
+    padding: 20px;
+    border-radius: 20px;
+    min-height: 150px;
+    margin-top: 20px
 }

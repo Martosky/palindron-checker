@@ -1,2 +1,4 @@
 This is a palindrome checker project.
-in this project i will build a palindrome checker which function is to check if a letter is spelt the same way if spelt in both direction
+in this project i will build a palindrome checker which function is to check if a letter is spelt the same way if spelt in both direction.
+I have finished the building the html element and also styled the page with the css.
+i am currently adding js function in order for the palindrome to work as it's suppose to.
